@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.MainForm.resources
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.AssemblyInfo.cs
+C:\Users\admin\Desktop\BF\BF2Updater\obj\Release\net5.0\BF2Updater.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu69saL2QIl3oEmK0eVKkUUyz+I3iOECoj/6T5amAxcFkczu0x0cMJiyAdYqFmURnmXILIocWFhk37ALaxF8oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\BF\\BF2Updater\\BF2Updater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
